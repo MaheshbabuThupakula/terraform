@@ -1,0 +1,5 @@
+region          = "ap-south-1"
+ami_id          = "ami-08e5424edfe926b43"
+instance_type   = "t3.large"
+key_pair_name   = "prod-keypair"
+instance_name   = "Prod Instance"

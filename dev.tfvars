@@ -1,0 +1,5 @@
+region          = "ap-south-1"
+ami_id          = "ami-08e5424edfe926b43"
+instance_type   = "t2.micro"
+key_pair_name   = "mahi-keypai"
+instance_name   = "Jenins-Instance"
